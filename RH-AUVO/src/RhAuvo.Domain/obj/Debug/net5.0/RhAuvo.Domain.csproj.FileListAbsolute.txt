@@ -9,4 +9,3 @@ C:\Users\Feeco\source\repos\RH-Auvo\RH-AUVO\src\RhAuvo.Domain\obj\Debug\net5.0\R
 C:\Users\Feeco\source\repos\RH-Auvo\RH-AUVO\src\RhAuvo.Domain\obj\Debug\net5.0\RhAuvo.Domain.dll
 C:\Users\Feeco\source\repos\RH-Auvo\RH-AUVO\src\RhAuvo.Domain\obj\Debug\net5.0\ref\RhAuvo.Domain.dll
 C:\Users\Feeco\source\repos\RH-Auvo\RH-AUVO\src\RhAuvo.Domain\obj\Debug\net5.0\RhAuvo.Domain.pdb
-C:\Users\Feeco\source\repos\RH-Auvo\RH-AUVO\src\RhAuvo.Domain\obj\Debug\net5.0\RhAuvo.Domain.csproj.AssemblyReference.cache

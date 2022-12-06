@@ -396,7 +396,6 @@ C:\Users\Feeco\source\repos\RH-Auvo\RH-AUVO\src\RhAuvo.Web\bin\Debug\net5.0\wwwr
 C:\Users\Feeco\source\repos\RH-Auvo\RH-AUVO\src\RhAuvo.Web\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat
 C:\Users\Feeco\source\repos\RH-Auvo\RH-AUVO\src\RhAuvo.Web\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat
 C:\Users\Feeco\source\repos\RH-Auvo\RH-AUVO\src\RhAuvo.Web\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.16.js
-C:\Users\Feeco\source\repos\RH-Auvo\RH-AUVO\src\RhAuvo.Web\obj\Debug\net5.0\RhAuvo.Web.csproj.AssemblyReference.cache
 C:\Users\Feeco\source\repos\RH-Auvo\RH-AUVO\src\RhAuvo.Web\obj\Debug\net5.0\RhAuvo.Web.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Feeco\source\repos\RH-Auvo\RH-AUVO\src\RhAuvo.Web\obj\Debug\net5.0\RhAuvo.Web.AssemblyInfoInputs.cache
 C:\Users\Feeco\source\repos\RH-Auvo\RH-AUVO\src\RhAuvo.Web\obj\Debug\net5.0\RhAuvo.Web.AssemblyInfo.cs
@@ -404,8 +403,6 @@ C:\Users\Feeco\source\repos\RH-Auvo\RH-AUVO\src\RhAuvo.Web\obj\Debug\net5.0\RhAu
 C:\Users\Feeco\source\repos\RH-Auvo\RH-AUVO\src\RhAuvo.Web\obj\Debug\net5.0\RhAuvo.Web.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Feeco\source\repos\RH-Auvo\RH-AUVO\src\RhAuvo.Web\obj\Debug\net5.0\RhAuvo.Web.RazorComponent.input.cache
 C:\Users\Feeco\source\repos\RH-Auvo\RH-AUVO\src\RhAuvo.Web\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
-C:\Users\Feeco\source\repos\RH-Auvo\RH-AUVO\src\RhAuvo.Web\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
-C:\Users\Feeco\source\repos\RH-Auvo\RH-AUVO\src\RhAuvo.Web\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
 C:\Users\Feeco\source\repos\RH-Auvo\RH-AUVO\src\RhAuvo.Web\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
 C:\Users\Feeco\source\repos\RH-Auvo\RH-AUVO\src\RhAuvo.Web\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
 C:\Users\Feeco\source\repos\RH-Auvo\RH-AUVO\src\RhAuvo.Web\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
@@ -417,8 +414,6 @@ C:\Users\Feeco\source\repos\RH-Auvo\RH-AUVO\src\RhAuvo.Web\obj\Debug\net5.0\RhAu
 C:\Users\Feeco\source\repos\RH-Auvo\RH-AUVO\src\RhAuvo.Web\obj\Debug\net5.0\RhAuvo.Web.TagHelpers.output.cache
 C:\Users\Feeco\source\repos\RH-Auvo\RH-AUVO\src\RhAuvo.Web\obj\Debug\net5.0\RhAuvo.Web.RazorCoreGenerate.cache
 C:\Users\Feeco\source\repos\RH-Auvo\RH-AUVO\src\RhAuvo.Web\obj\Debug\net5.0\Razor\App.razor.g.cs
-C:\Users\Feeco\source\repos\RH-Auvo\RH-AUVO\src\RhAuvo.Web\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
-C:\Users\Feeco\source\repos\RH-Auvo\RH-AUVO\src\RhAuvo.Web\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
 C:\Users\Feeco\source\repos\RH-Auvo\RH-AUVO\src\RhAuvo.Web\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
 C:\Users\Feeco\source\repos\RH-Auvo\RH-AUVO\src\RhAuvo.Web\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
 C:\Users\Feeco\source\repos\RH-Auvo\RH-AUVO\src\RhAuvo.Web\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
@@ -630,3 +625,6 @@ C:\Users\Feeco\source\repos\RH-Auvo\RH-AUVO\src\RhAuvo.Web\obj\Debug\net5.0\RhAu
 C:\Users\Feeco\source\repos\RH-Auvo\RH-AUVO\src\RhAuvo.Web\obj\Debug\net5.0\RhAuvo.Web.dll
 C:\Users\Feeco\source\repos\RH-Auvo\RH-AUVO\src\RhAuvo.Web\obj\Debug\net5.0\ref\RhAuvo.Web.dll
 C:\Users\Feeco\source\repos\RH-Auvo\RH-AUVO\src\RhAuvo.Web\obj\Debug\net5.0\RhAuvo.Web.pdb
+C:\Users\Feeco\source\repos\RH-Auvo\RH-AUVO\src\RhAuvo.Web\obj\Debug\net5.0\RazorDeclaration\Pages\About.razor.g.cs
+C:\Users\Feeco\source\repos\RH-Auvo\RH-AUVO\src\RhAuvo.Web\obj\Debug\net5.0\Razor\Pages\About.razor.g.cs
+C:\Users\Feeco\source\repos\RH-Auvo\RH-AUVO\src\RhAuvo.Web\obj\Debug\net5.0\RhAuvo.Web.csproj.AssemblyReference.cache

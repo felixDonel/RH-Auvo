@@ -6,7 +6,6 @@ namespace RhAuvo.Domain
 {
     public class Departamento : Entity
     {
-        public int Id { get; set; }
         public string Nome { get; set; }
         public string MesVigente { get; set; }
         public int AnoVigente { get; set; }
