@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BSJKqBZ+36zFGlJsGuBO3CYU7e+I9Y+Xaa5VPgVQl/XmS8N92Jvk8EzH1RoFQvHvb9xp215gPTbjxwDCbQdLRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Feeco\\source\\repos\\RH-Auvo\\RH-AUVO\\src\\RhAuvo\\RhAuvo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Feeco\\.nuget\\packages\\asyncenumerator\\4.0.2\\asyncenumerator.4.0.2.nupkg.sha512",
+    "C:\\Users\\Feeco\\.nuget\\packages\\morelinq\\3.3.2\\morelinq.3.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}

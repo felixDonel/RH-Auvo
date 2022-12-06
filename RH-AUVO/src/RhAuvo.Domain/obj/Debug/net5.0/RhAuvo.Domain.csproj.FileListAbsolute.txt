@@ -1,0 +1,12 @@
+C:\Users\Feeco\source\repos\RH-Auvo\RH-AUVO\src\RhAuvo.Domain\bin\Debug\net5.0\RhAuvo.Domain.deps.json
+C:\Users\Feeco\source\repos\RH-Auvo\RH-AUVO\src\RhAuvo.Domain\bin\Debug\net5.0\RhAuvo.Domain.dll
+C:\Users\Feeco\source\repos\RH-Auvo\RH-AUVO\src\RhAuvo.Domain\bin\Debug\net5.0\ref\RhAuvo.Domain.dll
+C:\Users\Feeco\source\repos\RH-Auvo\RH-AUVO\src\RhAuvo.Domain\bin\Debug\net5.0\RhAuvo.Domain.pdb
+C:\Users\Feeco\source\repos\RH-Auvo\RH-AUVO\src\RhAuvo.Domain\obj\Debug\net5.0\RhAuvo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Feeco\source\repos\RH-Auvo\RH-AUVO\src\RhAuvo.Domain\obj\Debug\net5.0\RhAuvo.Domain.AssemblyInfoInputs.cache
+C:\Users\Feeco\source\repos\RH-Auvo\RH-AUVO\src\RhAuvo.Domain\obj\Debug\net5.0\RhAuvo.Domain.AssemblyInfo.cs
+C:\Users\Feeco\source\repos\RH-Auvo\RH-AUVO\src\RhAuvo.Domain\obj\Debug\net5.0\RhAuvo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Feeco\source\repos\RH-Auvo\RH-AUVO\src\RhAuvo.Domain\obj\Debug\net5.0\RhAuvo.Domain.dll
+C:\Users\Feeco\source\repos\RH-Auvo\RH-AUVO\src\RhAuvo.Domain\obj\Debug\net5.0\ref\RhAuvo.Domain.dll
+C:\Users\Feeco\source\repos\RH-Auvo\RH-AUVO\src\RhAuvo.Domain\obj\Debug\net5.0\RhAuvo.Domain.pdb
+C:\Users\Feeco\source\repos\RH-Auvo\RH-AUVO\src\RhAuvo.Domain\obj\Debug\net5.0\RhAuvo.Domain.csproj.AssemblyReference.cache

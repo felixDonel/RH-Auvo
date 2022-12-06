@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lilY5QlBUARk17gW2oHVv3GCbmqWvPz63E5WbP6xxzIvazTEVH9bOZfG9qQprDSypQlad+OBU2Fg8oXV2m/WeQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Feeco\\source\\repos\\RH-Auvo\\RH-AUVO\\src\\RhAuvo.Data\\RhAuvo.Data\\RhAuvo.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Feeco\\.nuget\\packages\\asyncenumerator\\4.0.2\\asyncenumerator.4.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\Feeco\source\repos\RH-Auvo\RH-AUVO\src\RhAuvo.Application\bin\Debug\net5.0\RhAuvo.Application.deps.json
+C:\Users\Feeco\source\repos\RH-Auvo\RH-AUVO\src\RhAuvo.Application\bin\Debug\net5.0\RhAuvo.Application.dll
+C:\Users\Feeco\source\repos\RH-Auvo\RH-AUVO\src\RhAuvo.Application\bin\Debug\net5.0\ref\RhAuvo.Application.dll
+C:\Users\Feeco\source\repos\RH-Auvo\RH-AUVO\src\RhAuvo.Application\bin\Debug\net5.0\RhAuvo.Application.pdb
+C:\Users\Feeco\source\repos\RH-Auvo\RH-AUVO\src\RhAuvo.Application\bin\Debug\net5.0\RhAuvo.Data.dll
+C:\Users\Feeco\source\repos\RH-Auvo\RH-AUVO\src\RhAuvo.Application\bin\Debug\net5.0\RhAuvo.Domain.dll
+C:\Users\Feeco\source\repos\RH-Auvo\RH-AUVO\src\RhAuvo.Application\bin\Debug\net5.0\RhAuvo.Data.pdb
+C:\Users\Feeco\source\repos\RH-Auvo\RH-AUVO\src\RhAuvo.Application\bin\Debug\net5.0\RhAuvo.Domain.pdb
+C:\Users\Feeco\source\repos\RH-Auvo\RH-AUVO\src\RhAuvo.Application\obj\Debug\net5.0\RhAuvo.Application.csproj.AssemblyReference.cache
+C:\Users\Feeco\source\repos\RH-Auvo\RH-AUVO\src\RhAuvo.Application\obj\Debug\net5.0\RhAuvo.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Feeco\source\repos\RH-Auvo\RH-AUVO\src\RhAuvo.Application\obj\Debug\net5.0\RhAuvo.Application.AssemblyInfoInputs.cache
+C:\Users\Feeco\source\repos\RH-Auvo\RH-AUVO\src\RhAuvo.Application\obj\Debug\net5.0\RhAuvo.Application.AssemblyInfo.cs
+C:\Users\Feeco\source\repos\RH-Auvo\RH-AUVO\src\RhAuvo.Application\obj\Debug\net5.0\RhAuvo.Application.csproj.CoreCompileInputs.cache
+C:\Users\Feeco\source\repos\RH-Auvo\RH-AUVO\src\RhAuvo.Application\obj\Debug\net5.0\RhAuvo.Application.csproj.CopyComplete
+C:\Users\Feeco\source\repos\RH-Auvo\RH-AUVO\src\RhAuvo.Application\obj\Debug\net5.0\RhAuvo.Application.dll
+C:\Users\Feeco\source\repos\RH-Auvo\RH-AUVO\src\RhAuvo.Application\obj\Debug\net5.0\ref\RhAuvo.Application.dll
+C:\Users\Feeco\source\repos\RH-Auvo\RH-AUVO\src\RhAuvo.Application\obj\Debug\net5.0\RhAuvo.Application.pdb
